@@ -49,6 +49,7 @@ using Lambdas:
             if (id(page) > 3) {
               id(page) = 1;
             }
+        - component.update: lcd
 
 
 .. _lambda_magic_udp_sender:
